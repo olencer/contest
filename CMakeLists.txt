@@ -7,3 +7,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 # test
 add_executable(_contest main.cpp)
+
+add_subdirectory(_todo)
