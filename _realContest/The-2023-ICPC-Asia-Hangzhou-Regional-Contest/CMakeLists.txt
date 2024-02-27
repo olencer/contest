@@ -1,0 +1,17 @@
+# The 2023 ICPC Asia Hangzhou Regional Contest
+# Hangzhou Onsite
+# https://codeforces.com/gym/104976/
+
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_A A.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_B B.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_C C.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_D D.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_E E.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_F F.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_G G.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_H H.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_I I.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_J J.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_K K.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_L L.cpp)
+add_executable(realContest-The_2023_ICPC_Asia_Hangzhou_Regional_Contest_M M.cpp)

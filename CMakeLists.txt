@@ -9,3 +9,4 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(_contest main.cpp)
 
 add_subdirectory(_todo)
+add_subdirectory(_realContest)
