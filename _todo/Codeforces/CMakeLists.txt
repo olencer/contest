@@ -32,3 +32,5 @@ add_subdirectory(Educational-Codeforces-Round-80)
 add_subdirectory(Educational-Codeforces-Round-107)
 add_subdirectory(Educational-Codeforces-Round-114)
 add_subdirectory(Lyft-Level-5-Challenge-2018-Elimination-Round)
+
+add_subdirectory(Codeforces-Round-931)
