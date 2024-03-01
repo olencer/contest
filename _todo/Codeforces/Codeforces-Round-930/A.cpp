@@ -2,7 +2,11 @@
 
 void solve()
 {
+    int n;
+    std::cin >> n;
 
+    int res = 1 << int(log(n) / log(2));
+    std::cout << res << '\n';
 }
 
 int main()
